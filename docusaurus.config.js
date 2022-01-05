@@ -22,6 +22,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: "/",
           sidebarPath: require.resolve('./sidebars.js'),
         },
         theme: {
@@ -41,17 +42,38 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          {
-            href: 'https://github.com/ChilledAdventures/ChilledDocs',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/ChilledAdventures/ChilledDocs',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          
+          // {
+          //   title: 'Community',
+          //   items: [
+          //     {
+          //       label: 'Discord',
+          //       href: 'https://discord.chilledadventures.net',
+          //     },
+          //     {
+          //       label: 'Twitter',
+          //       href: 'https://twitter.com/ChilledServer',
+          //     },
+          //   ],
+          // },
+          // {
+          //   title: 'More',
+          //   items: [
+          //     {
+          //       label: 'GitHub',
+          //       href: 'https://github.com/ChilledAdventures/ChilledDocs',
+          //     },
+          //   ],
+          // },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} ChilledDocs. Built with Docusaurus.`,
       },
