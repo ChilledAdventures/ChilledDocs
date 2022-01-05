@@ -14,7 +14,7 @@ const sidebars = {
 
   {
       type: 'link',
-      label: 'Support Discord',
+      label: 'Join the Discord!',
       href: 'https://discord.chilledadventures.net',
   },
  
