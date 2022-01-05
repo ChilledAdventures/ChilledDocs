@@ -17,10 +17,14 @@ const sidebars = {
       label: 'Join the Discord!',
       href: 'https://discord.chilledadventures.net',
   },
-  {
-      type: 'doc',
-      id: "welcome", // Welcome Page
-  },
+ 
+{
+      type: 'category',
+      label: 'Getting Started',
+      items: [
+          'getting_started/welcome',
+      ],
+},
   ],
 };
 

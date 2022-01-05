@@ -36,7 +36,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Chilled Adventures',
+        title: 'ChilledDocs',
         logo: {
           alt: 'Chilled_Adventures_Logo',
           src: 'img/logo.png',
