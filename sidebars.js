@@ -25,10 +25,6 @@ const sidebars = {
           'getting_started/welcome',
       ],
 },
-  {
-      type: 'doc',
-      id: "welcome", // Welcome Page
-  },
   ],
 };
 
