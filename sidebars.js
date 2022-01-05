@@ -25,6 +25,13 @@ const sidebars = {
           'getting_started/welcome',
       ],
 },
+{
+      type: 'category',
+      label: 'Services',
+      items: [
+          'services/security',
+      ],
+},
   ],
 };
 
