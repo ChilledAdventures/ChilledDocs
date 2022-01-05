@@ -10,7 +10,7 @@ const config = {
   tagline: 'Chilled Adventures Documentation',
   url: 'https://docs.chilledadventures.net',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ChilledAdventures',
