@@ -26,6 +26,10 @@ const sidebars = {
       label: 'Support Discord',
       href: 'https://discord.chilledadventures.net',
   },
+  {
+      type: 'doc',
+      id: "welcome", // Welcome Page
+  },
   ],
 };
 
