@@ -51,28 +51,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Discord',
-                href: 'https://discord.chilledadventures.net',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/ChilledServer',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/ChilledAdventures/ChilledDocs',
-              },
-            ],
-          },
+          
         ],
         copyright: `Copyright © ${new Date().getFullYear()} ChilledDocs. Built with Docusaurus.`,
       },
