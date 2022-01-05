@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   organizationName: 'ChilledAdventures',
   projectName: 'ChilledDocs',
 
@@ -75,7 +75,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} ChilledDocs. Built with Docusaurus.`,
+        copyright: `© Chilled Adventures ${new Date().getFullYear()}`,
       },
       prism: {
         theme: lightCodeTheme,
