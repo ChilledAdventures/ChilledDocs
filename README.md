@@ -9,5 +9,6 @@ We work with Markdown on this site so its easy for the Chilled Adventures staff 
 
 ## Want to contribute?
 Soon there will be information on how to contribute and a sytax guide.
+Guide link for now: https://www.markdownguide.org/basic-syntax/
 
 
