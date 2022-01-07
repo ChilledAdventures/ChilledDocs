@@ -30,6 +30,7 @@ const sidebars = {
       label: 'Services',
       items: [
           'services/security',
+          'services/expenses',
       ],
 },
   ],
