@@ -11,11 +11,15 @@ We want players to feel safe when using our servers or browsing services we offe
 
 This part of our docs will explain just a few of the ways we secure our services, you can find out more on our [Terms of Service](https://www.chilledadventures.net/terms) and [Privacy Policy](https://www.chilledadventures.net/privacy).
 
-# How are Passwords Saved?
+<div class="">
+<h2>How are passwords Saved?</h2>
+</div>
 
 Passwords on our website get saved using Password Hashing, when using this method passwords aren't saved in plain text, leaving them vulnerable if someone was to attempt to hack into the website database. Instead they get saved using Password Hashing, this method turns the passwords into a hash format (A load of numbers, symbols and letters) which is impossible for a human to read. The website then uses a algorithm to check your password when you login, keeping it much more secure. Using this method your passwords are cryptographically secure.
 
-# What Information can you see?
+<div class="">
+<h2>What Information can you see?</h2>
+</div>
 
 Every website which you view takes info such as your IP address for security reasons, even if you haven't registered an account.
 
