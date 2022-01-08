@@ -28,6 +28,7 @@ const sidebars = {
 {
       type: 'category',
       label: 'Services',
+      collapsed: false,
       items: [
           'services/security',
           'services/expenses',
