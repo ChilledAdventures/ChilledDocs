@@ -15,7 +15,7 @@ sidebar_label: Server Specs
 **DDoS Protection**\
 **Server Status:**\
 Simple: [https://www.chilledadventures.net/status](https://www.chilledadventures.net/status)\
-Advanced: [https://status.chilledadventures.net](https://status.chilledadventures.net)\
+Advanced: [https://status.chilledadventures.net](https://status.chilledadventures.net)
 
 :::info
 Chilled Adventures costs money to run - Donations are completely optional but are appreciated :)
