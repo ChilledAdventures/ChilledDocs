@@ -31,6 +31,8 @@ const sidebars = {
       items: [
           'services/security',
           'services/expenses',
+          'services/cancel-service',
+          'services/server-specs',
       ],
 },
   ],
