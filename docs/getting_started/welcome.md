@@ -26,6 +26,6 @@ Welcome to Chilled Adventures Docs! Here you can explore any information about t
 
 If you can't seem to find the answers for your questions, be sure to get in touch!  
 
-The fastest way is to join our Discord Server and open a ticket by following the instructions in <#support>.  
+The fastest way is to join our Discord Server and open a ticket by following the instructions in `#support`.  
 
 You can also email us: [support@chilledadventures.net](mailto:support@chilledadventures.net)
