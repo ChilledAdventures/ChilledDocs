@@ -9,7 +9,7 @@ sidebar_label: Server Specs
 
 ### Chilled Adventures - Server Specifications
 
-**CPU** - AMD Ryzen™ 9 3900 \n
+**CPU** - AMD Ryzen™ 9 3900
 **RAM** - 12gb DDR4
 **Storage** - 180GB+ NVMe
 **DDoS Protection**
