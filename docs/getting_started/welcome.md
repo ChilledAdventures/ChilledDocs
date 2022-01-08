@@ -18,8 +18,8 @@ Welcome to Chilled Adventures Docs! Here you can explore any information about t
 
 ## Quick Links
 
-● [Website](https://www.chilledadventures.net)  
-● [Store](https://www.chilledadventures.net/store)  
+➤ [Website](https://www.chilledadventures.net)  
+➤ [Store](https://www.chilledadventures.net/store)  
 ➤ [Discord](https://discord.chilledadventures.net)  
 ➤ [Twitter](https://twitter.com/ChilledServer)  
 ➤ [YouTube](https://www.youtube.com/channel/UC_mYNWh2KvJxx7gtVOwGqAg)  
