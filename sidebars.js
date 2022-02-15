@@ -30,15 +30,25 @@ const sidebars = {
       type: 'category',
       label: 'Kingdoms',
       items: [
-          'kingdoms/getting_started/commands',
-          'kingdoms/getting_started/online_map',
-          'kingdoms/getting_started/structures',
-          'kingdoms/getting_started/turrets',
-          'kingdoms/getting_started/upgrades',
-          'kingdoms/enchants/e_general_info',
-          'kingdoms/enchants/enchantment_list',
-      ]
-},
+{
+      type: 'category',
+      label: "Getting Started",
+      items: [
+          'getting_started/commands',
+          'getting_started/online_map',
+          'getting_started/structures',
+          'getting_started/turrets',
+          'getting_started/upgrades',
+                    ]
+                },
+{
+      type: 'category',
+      label: "Enchantments",
+      items: [
+          'enchants/e_general_info',
+          'enchants/enchantment_list',
+                    ]
+                },
 {
       type: 'category',
       label: 'Services',
@@ -49,6 +59,7 @@ const sidebars = {
           'services/cancel-service',
           'services/server-specs',
       ],
+  ],
 },
   ],
 };
