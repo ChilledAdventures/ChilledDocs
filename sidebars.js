@@ -35,7 +35,7 @@ const sidebars = {
           'kingdoms/getting_started/structures',
           'kingdoms/getting_started/turrets',
           'kingdoms/getting_started/upgrades',
-          'kingdoms/enchants/e-general-info',
+          'kingdoms/enchants/e_general_info',
           'kingdoms/enchants/enchant_list',
       ]
 },
