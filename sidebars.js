@@ -17,13 +17,27 @@ const sidebars = {
       label: 'Join the Discord!',
       href: 'https://discord.chilledadventures.net',
   },
- 
+
 {
       type: 'category',
       label: 'Getting Started',
       items: [
           'getting_started/welcome',
       ],
+},
+
+{
+      type: 'category',
+      label: 'Kingdoms',
+      items: [
+          'kingdoms/getting_started/commands',
+          'kingdoms/getting_started/online_map',
+          'kingdoms/getting_started/structures',
+          'kingdoms/getting_started/turrets',
+          'kingdoms/getting_started/upgrades',
+          'kingdoms/enchants/e-general-info',
+          'kingdoms/enchants/enchant_list',
+      ]
 },
 {
       type: 'category',
