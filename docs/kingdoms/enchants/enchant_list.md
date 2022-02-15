@@ -8,13 +8,13 @@ sidebar_label: Enchantment List
 # Kingdoms Enchantments
 
 ## Rarities:
-<span style="color:blue">**Common**</span>.
-<span style="color:blue">**Rare**</span>.
-<span style="color:blue">**Epic**</span>.
-<span style="color:blue">**Ultimate**</span>.
-<span style="color:blue">**Unique**</span>.
-<span style="color:blue">**Cosmetic**</span>.
-<span style="color:blue">**Curse**</span>.
+<p style="color:blue">**Common**</p>
+<p style="color:blue">**Rare**</p>
+<p style="color:blue">**Epic**</p>
+<p style="color:blue">**Ultimate**</p>
+<p style="color:blue">**Unique**</p>
+<p style="color:blue">**Cosmetic**</p>
+<p style="color:blue">**Curse**</p>
 
 | Name        | Level(s) | Item(s)                          | Rarity | Description                                                                        |
 | ----------- | -------- | -------------------------------- | ------ | ---------------------------------------------------------------------------------- |
