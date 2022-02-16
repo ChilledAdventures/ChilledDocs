@@ -59,6 +59,7 @@ const sidebars = {
           'services/cancel-service',
           'services/server-specs',
       ],
+    },
   ],
 },
   ],
