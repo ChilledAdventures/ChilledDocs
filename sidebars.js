@@ -40,7 +40,6 @@ const sidebars = {
       label: "Getting Started",
       items: [
           'kingdoms/getting_started/commands',
-          'kingdoms/getting_started/online_map',
           'kingdoms/getting_started/structures',
           'kingdoms/getting_started/turrets',
           'kingdoms/getting_started/upgrades',
@@ -51,9 +50,10 @@ const sidebars = {
       label: "Advanced",
       items: [
           'kingdoms/advanced/invading',
-          'kingdoms/advanced/structures',
-          'kingdoms/getting_started/turrets',
-          'kingdoms/getting_started/upgrades',
+          'kingdoms/advanced/relations_and_nations',
+          'kingdoms/advanced/resource_points',
+          'kingdoms/advanced/shields',
+          'kingdoms/advanced/taxes',
       ]
 },
 {
