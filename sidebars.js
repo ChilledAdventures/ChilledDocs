@@ -30,6 +30,11 @@ const sidebars = {
       type: 'category',
       label: 'Kingdoms',
       items: [
+
+{
+      type: 'doc',
+      id: "kingdoms/kingdoms_index",
+},
 {
       type: 'category',
       label: "Getting Started",
@@ -43,12 +48,25 @@ const sidebars = {
                 },
 {
       type: 'category',
+      label: "Advanced",
+      items: [
+          'kingdoms/advanced/invading',
+          'kingdoms/advanced/structures',
+          'kingdoms/getting_started/turrets',
+          'kingdoms/getting_started/upgrades',
+      ]
+},
+{
+      type: 'category',
       label: "Enchantments",
       items: [
           'kingdoms/enchants/e_general_info',
           'kingdoms/enchants/enchantment_list',
-                    ]
-                },
+      ]
+    },
+  ],
+},
+
 {
       type: 'category',
       label: 'Services',
@@ -60,8 +78,6 @@ const sidebars = {
           'services/server-specs',
       ],
     },
-  ],
-},
   ],
 };
 
